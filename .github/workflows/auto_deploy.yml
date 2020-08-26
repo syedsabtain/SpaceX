@@ -32,9 +32,9 @@ jobs:
       uses: Borales/actions-yarn@v2.0.0
       with:
         cmd: install
-   - name: Testing Spacex Application
+    - name: Testing SpaceX application
       run: npm test
-       
+      
     - name: Build React App
       run: yarn build
     
