@@ -5,4 +5,4 @@
     The UI of this application is Developed using Bootstrap4 and css.
     For icons i used Font-awesome.
  ## View the application
-    open[https://spacex-by-syedsabtain.web.app](Click here)
+    [I'm an inline-style link](https://www.google.com)
