@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the component 1`] = `
+<div
+  className="list-group bg-transparent custom-ul"
+>
+  <h4
+    className="list-group-item mt-2 text-center  only"
+  >
+    Mission List
+  </h4>
+</div>
+`;

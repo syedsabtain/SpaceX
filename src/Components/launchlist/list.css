@@ -1,0 +1,33 @@
+.custom-li{
+    background-color: rgba(5, 5, 5, 0.507)!important;
+    /* border-radius: 5px; */
+    /* padding: 10px; */
+    color: rgb(255, 255, 255)!important;
+    text-shadow: 2px 2px 4px #000000!important;
+    
+}
+.only{
+    background-color: rgba(5, 5, 5, 0)!important;
+    /* border-radius: 5px; */
+    /* padding: 10px; */
+    color: rgb(255, 255, 255)!important;
+    border-width: 0px!important;
+    text-shadow: 2px 2px 4px #000000!important;
+}
+.custom-ul{
+    /* height: 10%;
+    overflow-y: scroll; */
+   
+    
+}
+.custom-ul button{
+    transition: background-color 0.5s;
+    transition: font-size 0.5s;
+}
+.custom-ul button:hover{
+
+    background-color: rgba(5, 5, 5, 0.712)!important;
+     font-size: 20px;
+    
+     
+}

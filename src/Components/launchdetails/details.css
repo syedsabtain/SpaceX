@@ -1,0 +1,22 @@
+.cardstyle{
+    width: 18rem;
+}
+.details
+{
+    font-size: 18px;
+}
+.det{
+
+    background-color: rgba(5, 5, 5, 0.507);
+    border-radius: 5px;
+    padding: 10px;
+    color: rgb(255, 255, 255)!important;
+    text-shadow: 2px 2px 4px #000000!important;
+}
+.not{
+    
+    padding: 10px;
+    color: rgb(255, 255, 255)!important;
+    text-shadow: 4px 4px 10px #000000!important;
+    
+}

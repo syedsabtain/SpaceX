@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the component 1`] = `
+<div
+  className="mt-3 "
+>
+  <div
+    className=" det"
+  >
+    <h4>
+      Rocket Name : 
+      <span
+        className="details"
+      />
+    </h4>
+    <h4>
+      Mission Name : 
+      <span
+        className="details"
+      />
+    </h4>
+    <h4>
+      Launch Year : 
+      <span
+        className="details"
+      />
+    </h4>
+    <h4>
+      Launch Details : 
+      <span
+        className="details"
+      />
+    </h4>
+  </div>
+  <div
+    className="mt-3"
+  />
+</div>
+`;

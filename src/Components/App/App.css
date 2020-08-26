@@ -1,0 +1,22 @@
+.custom-nav a {
+    color: white!important;
+  text-shadow: 2px 2px 4px #000000!important;
+}
+.custom-nav button{
+    background-color: white!important;
+}
+.custom-nav h2{
+    color: white!important;
+    text-shadow: 2px 2px 4px #000000!important;
+    font-size: 29px;
+    margin-left: 20px!important;
+}
+.bd
+{
+    border: 2px solid red;
+}
+.custom-nav span{
+    color: white!important;
+    text-shadow: 2px 2px 4px #000000!important;
+
+}
